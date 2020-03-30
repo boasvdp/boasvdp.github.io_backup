@@ -1,7 +1,0 @@
-# Index
-
-- Index
-
-- Research
-
-- Contact
