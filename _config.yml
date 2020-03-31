@@ -27,19 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boasvdputten
 github_username:  boasvdp
 
-plainwhite:
-  name: Boas van der Putten
-  tagline: PhD student in bacterial genomics
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: boasvdputten
-    github: boasvdp
-    linkedIn: in/boas-van-der-putten-031247114 # format: locale/username
-
 # Build settings
-#theme: minima
-remote_theme: thelehhman/plainwhite-jekyll
+theme: minima
+
 plugins:
   - jekyll-feed
 
