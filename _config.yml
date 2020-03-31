@@ -28,7 +28,8 @@ twitter_username: boasvdputten
 github_username:  boasvdp
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
