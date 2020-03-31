@@ -6,7 +6,7 @@ layout: home
 title: About
 ---
 
-![photo](Img/Boas-van-der-Putten.png "Boas")
+<!--- ![photo](Img/Boas-van-der-Putten.png "Boas") --->
 
 ### Currently
 
