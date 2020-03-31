@@ -15,3 +15,5 @@ I'm a researcher, currently working on my PhD in microbial genomics at the [Amst
 ###  Background
 
 My university training focused mainly on wet-lab microbiological research, with some dry-lab elements. During internships I found out I was leaning more and more towards dry-lab analyses, and I was fortunate enough to find a PhD position which couples genomics methods to relevant and interesting AMR-focused questions.
+
+In my free time, I enjoy walking, cooking and playing games. 
