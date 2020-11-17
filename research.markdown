@@ -4,19 +4,23 @@ title: Research
 permalink: /Research/
 ---
 
-## Themes
-
 The main themes of my PhD are:
 
 - The spread of antimicrobial resistance
 
 - General _Escherichia_ genomics
 
-- Emerging bacterial pathogens relevant in global health (Streptococcus suis, Leptospira spp.)
+- Emerging bacterial pathogens relevant in global health (*Streptococcus suis*, *Leptospira spp.*)
 
 ## Publications
 
 #### 2020
+
+**Boas CL van der Putten**, Jarne M van Hattem, John Penders, COMBAT Consortium, Daniel R Mende, Constance Schultsz
+
+Extraintestinal pathogenic (ExPEC) lineages explain prolonged faecal carriage of travel-acquired extended-spectrum β-lactamase-producing *Escherichia coli*.
+
+bioRxiv: [DOI](https://doi.org/10.1101/2020.09.23.309856)
 
 ---
 
@@ -34,6 +38,13 @@ Microbiology Resource Announcements: [DOI](https://doi.org/10.1128/MRA.01439-19)
 
 bioRxiv: [DOI](https://doi.org/10.1101/781724)
 
+---
+
+Bálint Ármin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
+
+Understanding and predicting ciprofloxacin minimum inhibitory concentration in *Escherichia coli* with machine learning
+
+Scientific Reports: [DOI](http://dx.doi.org/10.1038/s41598-020-71693-5)
 
 
 #### 2019
@@ -54,10 +65,3 @@ Dendritic cells potently purge latent HIV-1 beyond TCR-stimulation, activating t
 
 EBioMedicine: [DOI](https://doi.org/10.1016/j.ebiom.2019.02.014)
 
----
-
-Bálint Ármin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
-
-Understanding and predicting ciprofloxacin minimum inhibitory concentration in *Escherichia coli* with machine learning
-
-bioRxiv: [DOI](https://doi.org/10.1101/806760)
