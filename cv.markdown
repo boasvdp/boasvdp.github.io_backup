@@ -26,6 +26,10 @@ permalink: /CV/
 
 ## Presentations
 
+2020: ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS), ePoster
+
+2020: Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies, ePoster
+
 2019: 12th International Meeting on Microbial Epidemiological Markers (IMMEM XII), oral
 
 2019: 29th European Congress of Clinical Microbiology & Infectious Diseases (ECCMID), poster and oral
@@ -42,6 +46,10 @@ permalink: /CV/
 
 ## Committees and duties
 
+2020: Organising the ASM NGS pre-conference hackathon
+
+2020 - current: Early Career Microbiologist reviewer for Microbial Genomics journal
+
 2018 - current: Member of the Educational Committee of the AMC Graduate School
 
 2017 - 2019: Student member of committee evaluating reaccreditation of life science programmes for the NVAO
@@ -51,6 +59,12 @@ permalink: /CV/
 ## Publications
 
 #### 2020
+
+**Boas CL van der Putten**, Jarne M van Hattem, John Penders, COMBAT Consortium, Daniel R Mende, Constance Schultsz
+
+Extraintestinal pathogenic (ExPEC) lineages explain prolonged faecal carriage of travel-acquired extended-spectrum β-lactamase-producing *Escherichia coli*.
+
+bioRxiv: [DOI](https://doi.org/10.1101/2020.09.23.309856)
 
 ---
 
@@ -68,6 +82,13 @@ Microbiology Resource Announcements: [DOI](https://doi.org/10.1128/MRA.01439-19)
 
 bioRxiv: [DOI](https://doi.org/10.1101/781724)
 
+---
+
+Bálint Ármin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
+
+Understanding and predicting ciprofloxacin minimum inhibitory concentration in *Escherichia coli* with machine learning
+
+Scientific Reports: [DOI](http://dx.doi.org/10.1038/s41598-020-71693-5)
 
 
 #### 2019
@@ -87,11 +108,3 @@ Thijs van Montfort, Renée van der Sluis, Gilles Darcis, Doyle Beaty, Kevin Groe
 Dendritic cells potently purge latent HIV-1 beyond TCR-stimulation, activating the PI3K-Akt-mTOR pathway
 
 EBioMedicine: [DOI](https://doi.org/10.1016/j.ebiom.2019.02.014)
-
----
-
-Bálint Ármin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
-
-Understanding and predicting ciprofloxacin minimum inhibitory concentration in *Escherichia coli* with machine learning
-
-bioRxiv: [DOI](https://doi.org/10.1101/806760)
