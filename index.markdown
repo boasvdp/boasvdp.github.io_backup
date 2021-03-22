@@ -10,7 +10,9 @@ title: About
 
 ### Currently
 
-I'm a researcher, currently working on my PhD in microbial genomics at the [Amsterdam Institute for Global Health and Development (AIGHD)](https://www.aighd.org/) and the [Amsterdam UMC, dept of Medical Microbiology](https://www.amc.nl/web/home.htm) in the group of Constance Schultsz. My research focuses on the spread of antimicrobial resistance (AMR), in particular how drug-resistant Escherichia coli spread between humans and other animals, and through international travel. My starting point is always the biological question, and I try to answer these questions using bioinformatics and genomics methods.
+I'm a researcher, currently working on my PhD in microbial genomics at the [Amsterdam Institute for Global Health and Development (AIGHD)](https://www.aighd.org/) and the [Amsterdam UMC, dept of Medical Microbiology](https://www.amc.nl/web/home.htm) in the group of Constance Schultsz. My research focuses on the spread of antimicrobial resistance (AMR), in particular how drug-resistant *Escherichia coli* spread between humans and other animals, and through international travel. My starting point is always the biological question, and I try to answer these questions using bioinformatics and genomics methods.
+
+I code mainly in Python, R and am comfortable working on the command line. I try to use Snakemake for a lot of projects and can work in RMarkdown.
 
 ###  Background
 

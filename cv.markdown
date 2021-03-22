@@ -6,7 +6,7 @@ permalink: /CV/
 
 ## Research experience
 
-2017 - current: PhD Bacterial Genomics at [AIGHD](https://www.aighd.org/) and [Amsterdam UMC](https://www.amsterdamumc.nl/)
+2017 - current: PhD Bacterial Genomics at [AIGHD](https://www.aighd.org/) and [Amsterdam UMC](https://www.amsterdamumc.nl/). The main focus of my PhD is the dissemination of antimicrobial resistant *E. coli*.
 
 2015 - 2017: Wet-lab internships on HIV-1 and influenza A at [Amsterdam UMC](https://www.amsterdamumc.nl/) and at [Wendy Barclay's group at Imperial College London](https://www.imperial.ac.uk/barclay-lab)
 
@@ -26,9 +26,11 @@ permalink: /CV/
 
 ## Presentations
 
+2021: Spring meeting of the Netherlands Society for Microbiology (KNVM), oral (accepted)
+
 2020: ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS), ePoster
 
-2020: Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies, ePoster
+2020: Antimicrobial Resistance - Genomes, Big Data and Emerging Technologies, ePoster
 
 2019: 12th International Meeting on Microbial Epidemiological Markers (IMMEM XII), oral
 
@@ -36,17 +38,19 @@ permalink: /CV/
 
 2019: Spring meeting of the Netherlands Society for Microbiology (KNVM), poster
 
-## Attended courses and workshops
+## Courses and workshops
 
-2019: Food Safety Bioinformatics Hackathon at the Quadram Institute
+2021: Participant, Python for Data Science, DataCamp (in progress)
 
-2017 - 2018: Amsterdam UMC Graduate School courses on Unix, Biostatistics, Infectious Diseases and Scientific Writing
+2020: Organiser, ASM NGS pre-conference hackathon on software testing. See also our [GitHub repo](https://github.com/microbinfie-hackathon2020/CSIS).
 
-2018: McGill Summer Institute course on Genomic Epidemiology of Infectious Diseases
+2019: Participant, Food Safety Bioinformatics Hackathon at the Quadram Institute
+
+2017 - 2018: Participant, Amsterdam UMC Graduate School courses on Unix, Biostatistics, Infectious Diseases and Scientific Writing
+
+2018: Participant, McGill Summer Institute course on Genomic Epidemiology of Infectious Diseases
 
 ## Committees and duties
-
-2020: Organising the ASM NGS pre-conference hackathon
 
 2020 - current: Early Career Microbiologist reviewer for Microbial Genomics journal
 
@@ -57,6 +61,15 @@ permalink: /CV/
 2015 - 2017: Secretary to the Educational Committee Biomedical Sciences at the University of Amsterdam
 
 ## Publications
+
+#### 2021
+
+**Boas CL van der Putten**, Sebastien Matamoros, Daniel R Mende, Edwin R Scholl, COMBAT Consortium, Constance Schultsz
+
+*Escherichia ruysiae* sp. nov., a novel Gram-stain-negative bacterium, isolated from a faecal sample of an international traveller
+
+International Journal for Systematic and Evolutionary Microbiology 2021, 71(2). [DOI](https://doi.org/10.1099/ijsem.0.004609)
+bioRxiv: [DOI](https://doi.org/10.1101/781724)
 
 #### 2020
 
@@ -76,20 +89,12 @@ Microbiology Resource Announcements: [DOI](https://doi.org/10.1128/MRA.01439-19)
 
 ---
 
-**Boas CL van der Putten**, Sebastien Matamoros, Daniel R Mende, Constance Schultsz
-
-*Escherichia ruysiae* sp. nov., isolated from an international traveller
-
-bioRxiv: [DOI](https://doi.org/10.1101/781724)
-
----
-
-Bálint Ármin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
+BálintArmin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
 
 Understanding and predicting ciprofloxacin minimum inhibitory concentration in *Escherichia coli* with machine learning
 
 Scientific Reports: [DOI](http://dx.doi.org/10.1038/s41598-020-71693-5)
-
+bioRxiv: [DOI](https://doi.org/10.1101/806760)
 
 #### 2019
 

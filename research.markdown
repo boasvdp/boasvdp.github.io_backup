@@ -14,6 +14,15 @@ The main themes of my PhD are:
 
 ## Publications
 
+#### 2021
+
+**Boas CL van der Putten**, Sebastien Matamoros, Daniel R Mende, Edwin R Scholl, COMBAT Consortium, Constance Schultsz
+
+*Escherichia ruysiae* sp. nov., a novel Gram-stain-negative bacterium, isolated from a faecal sample of an international traveller
+
+International Journal for Systematic and Evolutionary Microbiology 2021, 71(2). [DOI](https://doi.org/10.1099/ijsem.0.004609)
+bioRxiv: [DOI](https://doi.org/10.1101/781724)
+
 #### 2020
 
 **Boas CL van der Putten**, Jarne M van Hattem, John Penders, COMBAT Consortium, Daniel R Mende, Constance Schultsz
@@ -32,20 +41,12 @@ Microbiology Resource Announcements: [DOI](https://doi.org/10.1128/MRA.01439-19)
 
 ---
 
-**Boas CL van der Putten**, Sebastien Matamoros, Daniel R Mende, Constance Schultsz
-
-*Escherichia ruysiae* sp. nov., isolated from an international traveller
-
-bioRxiv: [DOI](https://doi.org/10.1101/781724)
-
----
-
-Bálint Ármin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
+BálintArmin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
 
 Understanding and predicting ciprofloxacin minimum inhibitory concentration in *Escherichia coli* with machine learning
 
 Scientific Reports: [DOI](http://dx.doi.org/10.1038/s41598-020-71693-5)
-
+bioRxiv: [DOI](https://doi.org/10.1101/806760)
 
 #### 2019
 
