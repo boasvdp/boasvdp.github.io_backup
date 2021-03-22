@@ -20,7 +20,7 @@ This Snakemake pipeline performs a read mapping analysis to determine whether st
 
 [GitHub link](https://github.com/boasvdp/COMBAT)
 
-https://zenodo.org/badge/DOI/10.5281/zenodo.4582689.svg
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4582689.svg)](https://doi.org/10.5281/zenodo.4582689)
 
 - Genomic epidemiology of zoonotic *Streptococcus suis*
 
