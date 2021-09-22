@@ -21,7 +21,7 @@
 title: Boas van der Putten
 email: boas.vanderputten@amsterdamumc.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student bacterial genomics at AIGHD and Amsterdam UMC. Research focus: spread of antimicrobial resistance by Escherichia coli.
+  Bioinformaticion at Amsterdam UMC. Research focus: bacterial meningitis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boasvdputten

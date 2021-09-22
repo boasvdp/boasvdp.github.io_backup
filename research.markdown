@@ -4,13 +4,7 @@ title: Research
 permalink: /Research/
 ---
 
-The main themes of my PhD are:
-
-- The spread of antimicrobial resistance
-
-- General _Escherichia_ genomics
-
-- Emerging bacterial pathogens relevant in global health (*Streptococcus suis*, *Leptospira spp.*)
+The main themes of my research are bacterial meningitis (current function) and the spread of antimicrobial resistance *Escherichia coli* (PhD subject).
 
 ## Publications
 
