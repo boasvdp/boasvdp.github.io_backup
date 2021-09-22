@@ -6,7 +6,9 @@ permalink: /CV/
 
 ## Research experience
 
-2017 - current: PhD Bacterial Genomics at [AIGHD](https://www.aighd.org/) and [Amsterdam UMC](https://www.amsterdamumc.nl/). The main focus of my PhD is the dissemination of antimicrobial resistant *E. coli*.
+2021 - current: bioinformatician/postdoc at Van Sorge group and Netherlands Reference Laboratory for Bacterial Meningitis (NRLBM), based at Amsterdam UMC. Researching carriage of group A Streptococcus (*S. pyogenes*) and *Escherichia coli* meningitis.
+
+2017 - 2021: PhD Bacterial Genomics at [AIGHD](https://www.aighd.org/) and [Amsterdam UMC](https://www.amsterdamumc.nl/). The main focus of my PhD is the dissemination of antimicrobial resistant *E. coli*.
 
 2015 - 2017: Wet-lab internships on HIV-1 and influenza A at [Amsterdam UMC](https://www.amsterdamumc.nl/) and at [Wendy Barclay's group at Imperial College London](https://www.imperial.ac.uk/barclay-lab)
 
@@ -26,7 +28,7 @@ permalink: /CV/
 
 ## Presentations
 
-2021: Spring meeting of the Netherlands Society for Microbiology (KNVM), oral (accepted)
+2021: Spring meeting of the Netherlands Society for Microbiology (KNVM), oral
 
 2020: ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS), ePoster
 
@@ -54,7 +56,7 @@ permalink: /CV/
 
 2020 - current: Early Career Microbiologist reviewer for Microbial Genomics journal
 
-2018 - current: Member of the Educational Committee of the AMC Graduate School
+2018 - 2020: Member of the Educational Committee of the AMC Graduate School
 
 2017 - 2019: Student member of committee evaluating reaccreditation of life science programmes for the NVAO
 
@@ -64,12 +66,20 @@ permalink: /CV/
 
 #### 2021
 
-**Boas CL van der Putten**, Sebastien Matamoros, Daniel R Mende, Edwin R Scholl, COMBAT Consortium, Constance Schultsz
+**Boas CL van der Putten**, Sébastien Matamoros, Daniel R Mende, Edwin R Scholl, COMBAT Consortium, Constance Schultsz
 
 *Escherichia ruysiae* sp. nov., a novel Gram-stain-negative bacterium, isolated from a faecal sample of an international traveller
 
 International Journal for Systematic and Evolutionary Microbiology 2021, 71(2). [DOI](https://doi.org/10.1099/ijsem.0.004609)
 bioRxiv: [DOI](https://doi.org/10.1101/781724)
+
+---
+
+**Boas CL van der Putten**, Niek AH Huijsmans, Daniel R Mende, Constance Schultsz
+
+Benchmarking topological accuracy of bacterial phylogenomic workflows using *in silico* evolution.
+
+bioRxiv: [DOI](https://doi.org/10.1101/2021.08.03.454900)
 
 #### 2020
 
@@ -89,7 +99,7 @@ Microbiology Resource Announcements: [DOI](https://doi.org/10.1128/MRA.01439-19)
 
 ---
 
-BálintArmin Pataki, Sebastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
+Bálint A Pataki, Sébastien Matamoros, **Boas CL van der Putten**, Daniel Remondini, Enrico Giampieri, Derya Aytan-Aktug, Rene S Hendriksen, Ole Lund, Istvan Csabai, Constance Schultsz
 
 Understanding and predicting ciprofloxacin minimum inhibitory concentration in *Escherichia coli* with machine learning
 
